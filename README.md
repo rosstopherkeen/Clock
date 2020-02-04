@@ -19,14 +19,29 @@ The clock has **two groups of 3 digits**, called the `beat` and the `pulse`. For
 
 ## Build
 
+
+~~Install [npm](https://docs.npmjs.com/getting-started/installing-node), download dependencies and start Clock with:~~
+
+~~```~~
+~~npm install~~
+~~npm run build_osx~~
+~~```~~
+
+Install with this:
+
+```
+cd Clock/desktop
+go to package.json and change electron-packager to "^12.1.0"
+```
+
+Now, in Clock/desktop run
 Install [npm](https://docs.npmjs.com/getting-started/installing-node), download dependencies and start Clock with:
 
 ```
 npm install
-npm run build_osx
-```
-
+@@ -44,4 +29,4 @@ npm run build_osx
 ## Extras
 
 - Support this project through [Patreon](https://patreon.com/100).
+- See the [License](LICENSE.md) file for license rights and limitations (MIT).
 - See the [License](LICENSE.md) file for license rights and limitations (MIT).
