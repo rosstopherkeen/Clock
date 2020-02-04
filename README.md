@@ -19,14 +19,13 @@ The clock has **two groups of 3 digits**, called the `beat` and the `pulse`. For
 
 ## Build
 
-~~
-Install [npm](https://docs.npmjs.com/getting-started/installing-node), download dependencies and start Clock with:
 
-```
+~~Install [npm](https://docs.npmjs.com/getting-started/installing-node), download dependencies and start Clock with:~~
+
+~~```
 npm install
 npm run build_osx
-```
-~~
+```~~
 
 Install with this:
 
