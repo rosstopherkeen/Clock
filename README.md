@@ -39,7 +39,9 @@ Install [npm](https://docs.npmjs.com/getting-started/installing-node), download 
 
 ```
 npm install
-@@ -44,4 +29,4 @@ npm run build_osx
+npm run build_osx
+```
+
 ## Extras
 
 - Support this project through [Patreon](https://patreon.com/100).
