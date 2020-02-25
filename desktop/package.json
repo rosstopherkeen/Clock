@@ -15,7 +15,7 @@
     "electron": "^1.8.1"
   },
   "dependencies": {
-    "electron-packager": "^8.4.0",
+    "electron-packager": "^12.1.0",
     "node-notifier": "^5.2.1"
   }
 }
