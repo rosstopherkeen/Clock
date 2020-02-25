@@ -29,10 +29,10 @@ The clock has **two groups of 3 digits**, called the `beat` and the `pulse`. For
 
 Install with this:
 
-~~```
-cd Clock/desktop
-go to package.json and change electron-packager to "^12.1.0"
-```~~
+~~```~~
+~~cd Clock/desktop~~
+~~go to package.json and change electron-packager to "^12.1.0"~~
+~~```~~
 
 Now, in Clock/desktop run
 Install [npm](https://docs.npmjs.com/getting-started/installing-node), download dependencies and start Clock with:
